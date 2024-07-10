@@ -359,7 +359,7 @@ batch = data_iterator.next()
 
 
 
-############################################### TIMER for running a MODEL #####################################################
+############################################### TIMER for Running a MODEL #####################################################
 from datetime import datetime
 def timer(start_time=None):
     if not start_time:
